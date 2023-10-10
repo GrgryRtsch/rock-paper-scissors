@@ -1,39 +1,273 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# GrgryRtsch/Rock-Paper-Scissors
 
-Welcome,
+***
+Rock, Paper, Scissors. This game is for adults and children it is a replayable game that is played against the computer.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Rock Paper Scissors Lizard Spock Game
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+# Ux
 
-## Codeanywhere Reminders
+## User Goals
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+* The game should have
+* The game should be 
+* The game should be 
+* The game should 
+* The game should 
 
-`python3 -m http.server`
+## User Stories
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+* As a user I want the game to be easy to navigate
+* As a user I want the game to have useful information
+* As a user I want the game to be  
+* As a user I want the game to be 
+* As a user I want the game to be 
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+## Site Owners Goals
 
-`http_server`
+* 
+* The game should be
+* The code should be 
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+***
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## User Requirements And Expectations
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+***
 
-To log into the Heroku toolbelt CLI:
+### Requirements
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+* Easy to play and understand who is winning
+* 
+* 
+* 
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+#### Expectations
 
----
+* The user expects the game to 
+* The user expects the game to 
+* The user expects the game to 
+* The user expects the game to 
 
-Happy coding!
+***
+
+## How to Play
+
+
+## Design choices
+
+#### Fonts
+
+
+
+#### Icons
+
+* 
+
+* 
+
+### Colors
+
+#####
+
+* 
+
+#####
+
+* 
+
+#####
+
+* 
+
+#####
+
+* 
+
+#####
+
+* 
+
+#####
+
+* 
+
+#####
+
+* 
+
+* 
+* 
+
+### Wireframes
+
+* 
+
+#### Mobile
+
+* 
+
+#### Tablet
+
+* 
+
+#### Desktop
+
+* 
+
+## Features
+
+### Existing Features
+
+#### Header
+
+    * 
+    * 
+
+ 
+
+#### The Game Choices
+
+    * 
+
+#### The Game Results
+
+    * 
+    * 
+    * 
+
+#### Player and computer Images
+
+    * 
+
+#### Footer
+
+    * 
+
+## Features To Be Implemented
+
+    * 
+    * 
+    * 
+
+### Images
+
+* 
+
+### Structure
+
+* 
+
+### Testing
+
+*
+
+
+
+*
+
+
+#### Bugs
+
+* ##### Bug
+
+  * 
+
+* ##### Fix
+
+  * 
+
+* ##### Verdict
+
+  *
+
+#### Mobile device
+
+* #### Bug
+
+  * 
+
+* #### Fix
+
+  *
+
+* ##### Verdict
+
+  * 
+
+#### images
+
+* ##### Bug
+
+  * 
+
+* ##### Fix
+
+  * 
+  
+* ##### Verdict
+
+  *
+
+### Unfixed Bugs
+
+* 
+
+***
+
+### Technologies Used
+
+#### Languages
+
+* [Html](https://en.wikipedia.org/wiki/HTML5)
+* [Css](https://en.wikipedia.org/wiki/CSS)
+* [JavaScript](https://en.wikipedia.org/wiki/JS)
+
+#### Libraries And Frameworks
+
+* 
+*
+
+#### Tools
+
+* [Git hub](https://github.com/)
+* [Git pod](https://www.gitpod.io/docs/configure/)
+* [W3c Html Validation service](https://validator.w3.org/)
+* [W3c Css Validation service](https://jigsaw.w3.org/css-validator/)
+* [JSHint JavaScript Validator](https://jshint.com/)
+
+***
+
+### Deployment
+
+This project was deployed using Github using the following method:
+
+1. After logging into github.com open repository
+2. Click on settings then on the left find the pages section
+3. Once on the page click on the master branch and then save
+4. Now a link should appear and in a few moments be able to be clicked
+5. This is now a live website that can be viewed from any device
+
+To run it locally on Gitpod follow this method:
+
+1. Assuming you have Gitpod as an add-on. Click on which repository you want to run.
+2. Click on Gitpod this should then take a few moments
+3. Once loaded find the terminal section and type python3 -m HTTP.server
+4. This will open a port 8000, click yes to open
+5. A new tab should appear with your work, although sometimes needs to be refreshed
+
+***
+
+### Credits
+
+#### Content-Media-Inspiration
+
+* 
+
+#### Acknowledgements
+
+* 
+
+#### Credits
+
+* I used a tutorial from the content creator "BroCode" to create the base functionalities of my game: <https://www.youtube.com/@BroCodez
