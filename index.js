@@ -1,47 +1,82 @@
-const playerText = document.querySelector("#playerText");
-const computerText = document.querySelector("#computerText");
-const resultText = document.querySelector("#resultText");
-const choiceBtns = document.querySelectorAll(".choiceBtn");
-let player;
-let computer;
-let result;
+var plyscore =0;
+var comscore =0;
+function myfunc(){
+var userChoice = document.getElementById("input").value;
+var uc =document.getElementById('pc');
+  uc = uc.innerHTML = "You :" + " " + userChoice
+var computerChoice = Math.random(); 
+if (computerChoice < 0.34) {
+	computerChoice = "rock";
+} else if(computerChoice <= 0.67) {
+	computerChoice = "paper";
+} else {
+	computerChoice = "scissors";
+} document.getElementById('ch').innerHTML = "Computer: " + computerChoice;
 
-choiceBtns.forEach(button => button.addEventListener("click", () => {
-
-    player = button.textContent;
-    computerTurn();
-    playerText.textContent = `Player: ${player}`;
-    computerText.textContent = `Computer: ${computer}`;
-    resultText.textContent = checkWinner();
-}));
-
-function computerTurn() {
-
-    const randNum = Math.floor(Math.random() * 3) + 1;
-
-    switch (randNum) {
-        case 1:
-            computer = "ROCK";
-            break;
-        case 2:
-            computer = "PAPER";
-            break;
-        case 3:
-            computer = "SCISSORS";
-            break;
+document.getElementById('result').innerHTML = compare(userChoice,computerChoice);
+document.getElementById('input').value = "";
+document.getElementById('pscore').innerHTML = "You : " + plyscore;
+document.getElementById('cscore').innerHTML = "Computer : "  + comscore;
+}
+function compare(choice1, choice2){
+if (choice1 == choice2){
+    return "The result is a tie!";    
+} else if (choice1 == "rock") {
+    if (choice2 == "scissors"){
+    	plyscore = plyscore+1;
+        return "rock wins";
+        
+    } else {
+    	comscore = comscore+1;
+        return "paper wins";
+    }
+} else if (choice1 == "paper") {
+    if (choice2 == "rock"){
+    	plyscore = plyscore+1;
+        return "paper wins";
+    } else {
+    	comscore = comscore+1;
+        return "scissors wins";
+    }
+} else if (choice1 == "scissors") {
+    if (choice2 == "rock"){
+    	plyscore = plyscore+1;
+        return "rock wins";
+    } else {
+    	comscore = comscore+1;
+        return "scissors wins";
     }
 }
-function checkWinner() {
-    if (player == computer) {
-        return "Draw!";
+}
+function rest(){
+  plyscore = 0;
+  comscore = 0;
+  document.getElementById('pscore').innerHTML = "You : "  + plyscore;
+  document.getElementById('cscore').innerHTML = "Computer : "  + comscore;
+}
+
+
+function limitGameToBestOutOfNine () { 
+    let score = parseInt(document.getElementById("plyscore").innerText);
+    let mistakes = parseInt(document.getElementById("comscore").innerText);
+    
+
+    if (score > mistakes) {
+      alert('Player has won the game!');
+    } else if (mistakes > score) {
+      alert('Computer has won the game!');
+    } else {
+      alert('It\'s a tie!');
     }
-    else if (computer == "ROCK") {
-        return (player == "PAPER") ? "You Win!" : "You Lose!";
-    }
-    else if (computer == "PAPER") {
-        return (player == "SCISSORS") ? "You Win!" : "You Lose!";
-    }
-    else if (computer == "SCISSORS") {
-        return (player == "ROCK") ? "You Win!" : "You Lose!";
+}
+  
+function completeRound() {
+    let choice1 = parseInt(document.getElementById("plyscore").innerText);
+    let choice2 = parseInt(document.getElementById("comscore").innerText);
+    
+
+    if ((choice1 + choice2) >8) {
+        limitGameToBestOutOfNine();
+        rest();
     }
 }
