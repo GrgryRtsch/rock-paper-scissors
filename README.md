@@ -152,7 +152,7 @@ Rock, Paper, Scissors. This game is for adults and children it is a replayable g
 
 ### Images
 
-* 
+* <a href="https://www.freepik.com/free-vector/realistic-illustration-with-rock-paper-scissors-hand-game-process-isolated_7499439.htm#query=rock%20paper%20scissors&position=32&from_view=search&track=ais">Image by macrovector</a> on Freepik
 
 ### Structure
 
@@ -271,3 +271,4 @@ To run it locally on Gitpod follow this method:
 #### Credits
 
 * I used a tutorial from the content creator "BroCode" to create the base functionalities of my game: <https://www.youtube.com/@BroCodez
+* https://codepen.io/SaberHosneyDev/pen/gLxrWX

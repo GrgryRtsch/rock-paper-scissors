@@ -1,39 +1,72 @@
-.choiceBtn {
-    line-height: 30px;
-    width: 150px;
-}
+body {
+    font-family: sans-serif;
+    font-size: 18px;
+    color: black;
+    background-color: #eee;
+    border: 2px solid black;
+    height: 100%;
+    padding-bottom: 3%;
+  }
 
-#gameDiv {
-    font-family: 'Brush Script MT', cursive;
-    border: 3px solid;
-    border-radius: 25px;
-    padding: 10px;
-    background-color: lightgrey;
+  header {
+    margin-bottom: 3%;
+  }
+  
+  h1 {
     text-align: center;
-}
+    border-bottom: 1px solid #444;
+  }
 
-#playerText {
+  strong {
+    color:maroon
+
+  }
+  
+  #icons {
+    text-align: center;
+    size: 5000px;
+  }
+
+  button {
+    font-family: cursive;
+    height: 30px;
+    width: 100px;
+    background-color: white;
     color: blue;
-}
-
-#computerText {
+  }
+  
+  input {
+    font-family:monospace;
+    font-weight: 600;
+    height: 35px;
+    width: 200px;
+    
+  }
+  
+  #result {
+    color: green;
+  }
+  
+  #ch {
     color: red;
+  }
+  
+  #pc {
+    color: green
+    ;
+  }
+  
+  #ch, #pc, #result {
+   font-weight :600;
+  }
+p{
+display : inline-block;
 }
 
-.introDiv {
-    font-family: 'Brush Script MT', cursive;
-    border: 3px solid;
-    border-radius: 25px;
-    padding: 10px;
-    background-color: lightgrey;
-    text-align: center;
+#pscore {
+    color: green;
 }
 
-.resultsDiv {
-    font-family: 'Brush Script MT', cursive;
-    border: 3px solid;
-    border-radius: 25px;
-    padding: 10px;
-    background-color: lightgrey;
-    text-align: center;
+#cscore {
+    color: red;
 }

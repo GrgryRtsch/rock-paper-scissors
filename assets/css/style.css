@@ -19,3 +19,12 @@
 #computerText {
     color: red;
 }
+
+.introDiv {
+    font-family: 'Brush Script MT', cursive;
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: lightgrey;
+    text-align: center;
+}
