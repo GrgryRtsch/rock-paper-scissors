@@ -6,32 +6,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
     <link rel="stylesheet" href="style.css" />
+    <script src="index.js"></script>
+    <script src="https://kit.fontawesome.com/67138d414f.js" crossorigin="anonymous"></script>
+
   </head>
 
   <body>
-    <div class="introDiv">
-      <h2>Rock, Paper, Scissors!</h2>
-      <p>Here we have a classic game of Rock, Paper, Scissors. You will be playing against a computer which is randomly generated, your aim? to Win!</p>
-    </div>
+    <header>
 
-    <div id="gameDiv">
-      <h1 class="gameText" id="playerText">Player:</h1>
-      <h1 class="gameText" id="computerText">Computer:</h1>
-      <h1 class="gameText" id="resultText">Result:</h1>
+<h1>Can you beat a computer at a game of Rock, Paper Scissors.</h1>
+<center><p class="icons"><i class="fa-solid fa-hand-back-fist">       <i class="fa-solid fa-hand">       <i class="fa-solid fa-hand-scissors"></i></i></i></p></center>
 
-      <button class="choiceBtn">ROCK</button>
-      <button class="choiceBtn">PAPER</button>
-      <button class="choiceBtn">SCISSORS</button>
-    </div>
-
-<div class="resultsDiv">
-
-    <h2>Results!</h2>
-
-</div>
-
-    <script src="index.js"></script>
-    
-
+    </header>
+<center>
+        <h2>Choose from rock,paper scissors .</h2>
+          <p><strong>Rock</strong> beats <strong>scissors</strong>, <strong>scissors</strong> beats <strong>paper</strong>, and <strong>paper</strong> beats <strong>rock</strong>.</p><br>
+        <input type="text" id="input" name="">
+        <button onclick="myfunc()">Play !</button>
+          <br>
+          <p id="pc">You :</p> | 
+        <p id="ch">Computer :</p><br>
+        <p id="result"></p>
+          <hr>
+        <h5>Score Board :</h5>
+        <p id="pscore">0</p> | <p id="cscore">0</p><br>
+          <button onclick="rest()">Reset</button>
+        </center>
   </body>
 </html>
