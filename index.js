@@ -21,6 +21,8 @@
         
         //Compare
         Compare(playerChoiceValue, computerChoiceValue);
+
+        CompleteRound()
         
         
         //Reset Select
