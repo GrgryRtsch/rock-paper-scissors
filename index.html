@@ -21,16 +21,23 @@
 <center>
         <h2>Choose from rock,paper scissors .</h2>
           <p><strong>Rock</strong> beats <strong>scissors</strong>, <strong>scissors</strong> beats <strong>paper</strong>, and <strong>paper</strong> beats <strong>rock</strong>.</p><br>
-        <input type="text" id="input" name="">
-        <button onclick="myfunc()">Play !</button>
-          <br>
-          <p id="pc">You :</p> | 
-        <p id="ch">Computer :</p><br>
-        <p id="result"></p>
-          <hr>
-        <h5>Score Board :</h5>
-        <p id="pscore">0</p> | <p id="cscore">0</p><br>
-          <button onclick="rest()">Reset</button>
+        <select id="userInput">
+			<option disabled selected value> -- Choose your weapon! -- </option>
+			<option>Rock</option>
+			<option>Paper</option>
+			<option>Scissors</option>
+		</select>
+        <button onclick="StartFunction()">Play !</button>
+			<br>
+			<p id="playerChoice">You :</p> | 
+			<p id="computerChoice">Computer :</p>
+			<br>
+			<p id="result"></p>
+			<br>
+        <h5>==== Score Board ====</h5>
+		<p>Player:</p><p id="playerScore">0</p><br>
+        <p>Computer:</p><p id="computerScore">0</p><br>
+        <button onclick="ResetGame()">Reset</button>
         </center>
   </body>
 </html>
