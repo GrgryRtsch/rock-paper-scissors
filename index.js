@@ -1,31 +1,32 @@
-function StartFunction(){
-    //Player
-    var userInputSelect = document.getElementById("userInput");
-    var playerChoiceValue = userInputSelect.options[userInputSelect.selectedIndex].text;
-    document.getElementById('playerChoice').innerHTML = playerChoiceValue; 
-      
-      
-    //Computer 
-    var randomNumber = Math.random(); 
-    var computerChoice = ""; 
-    if (randomNumber < 0.34) {
-        computerChoice = "rock";
-    } else if(randomNumber <= 0.67) {
-        computerChoice = "paper";
-    } else {
-        computerChoice = "scissors";
-    } 
-    document.getElementById('computerChoice').innerHTML = computerChoiceValue;
-    
-    
-    //Compare
-    Compare(playerChoiceValue, computerChoiceValue);
-    
-    
-    //Reset Select
-    userInputSelect.selectedIndex = -1;
-    }
-    
+
+    function StartFunction(){
+        //Player
+        var userInputSelect = document.getElementById("userInput");
+        var playerChoiceValue = userInputSelect.options[userInputSelect.selectedIndex].text;
+        document.getElementById('playerChoice').innerHTML = playerChoiceValue; 
+        
+        
+        //Computer 
+        var randomNumber = Math.random(); 
+        var computerChoiceValue = ""; 
+        if (randomNumber < 0.34) {
+            computerChoiceValue = "Rock";
+        } else if(randomNumber <= 0.67) {
+            computerChoiceValue = "Paper";
+        } else {
+            computerChoiceValue = "Scissors";
+        } 
+        document.getElementById('computerChoice').innerHTML = computerChoiceValue;
+        
+        
+        //Compare
+        Compare(playerChoiceValue, computerChoiceValue);
+        
+        
+        //Reset Select
+        userInputSelect.selectedIndex = -1;
+        }
+
     function Compare(playerChoiceValue, computerChoiceValue){
         //default to lose
         var playerWon = false;
@@ -36,6 +37,11 @@ function StartFunction(){
         
         //work out whether the player won
         switch(playerChoiceValue) {
+
+            case computerChoiceValue: 
+         document.getElementById('result').innerHTML = "It's a Tie!";
+        return;
+break; 
             case "Rock": 
             if(computerChoiceValue == "Scissors"){
                 playerWon = true;
