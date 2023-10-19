@@ -14,8 +14,10 @@
   <body>
     <header>
 
-<h1>Rock, Paper Scissors.</h1>
-<center><p class="icons"><i class="fa-solid fa-hand-back-fist">       <i class="fa-solid fa-hand">       <i class="fa-solid fa-hand-scissors"></i></i></i></p></center>
+<h1>Rock, Paper Scissors.<br>
+    <center><p class="icons"><i class="fa-solid fa-hand-back-fist">       <i class="fa-solid fa-hand">       <i class="fa-solid fa-hand-scissors"></i></i></i></p></center>
+</h1>
+
 
     </header>
 <center>
@@ -27,17 +29,25 @@
 			<option>Scissors</option>
 		</select>
         <br>
-        <br><button onclick="StartFunction()">Play !</button>
+        <br><button class="playButton" onclick="StartFunction()">Play !</button>
         <br><p>You:</p><p id="playerChoice"></p><br>
-        <p>Computer:</p><p id="computerChoice"></p><br> 
-        <p id="result"></p>
+         <p>Computer:</p><p id="computerChoice"></p><br> 
+         <p id="result"></p>
         <br>
-        <h5>==== Score Board ====</h5>
-		<p>Player:</p><p id="playerScore">0</p><br>
-        <p>Computer:</p><p id="computerScore">0</p><br>
-        <button onclick="ResetGame()">Reset</button>
+        <section class="score-board">
+        <h3>Score Board</h3>
+		 <p>Player:</p><p id="playerScore">0</p><br>
+         <p>Computer:</p><p id="computerScore">0</p><br>
+        <button class="resetButton" onclick="ResetGame()">Reset</button>
+        <br>
+    </section>
         </center>
-
-        <center><p><strong>Rock</strong> beats <strong>scissors</strong>, <strong>scissors</strong> beats <strong>paper</strong>, and <strong>paper</strong> beats <strong>rock</strong>.</p><br>
-  </body>
+    <section>
+        <center>
+            <br>
+            Rules.
+            <br>
+            <p><strong>Rock</strong> beats <strong>scissors</strong>, <strong>scissors</strong> beats <strong>paper</strong>, and <strong>paper</strong> beats <strong>rock</strong>.</p><br>
+        </section>
+        </body>
 </html>
