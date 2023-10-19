@@ -31,6 +31,7 @@ body {
   #icons {
     text-align: center;
     size: 5000px;
+    color: yellow;
   }
 
   button {
@@ -65,7 +66,8 @@ body {
   #ch, #pc, #result {
    font-weight :600;
   }
-p{
+
+p {
 display : inline-block;
 }
 
@@ -99,4 +101,12 @@ display : inline-block;
 
 .resetButton {
     background-color: black;
+}
+
+#userInput {
+    background-color: grey;
+}
+
+#fist {
+    color: yellow;
 }
