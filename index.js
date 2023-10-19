@@ -79,13 +79,12 @@ break;
       document.getElementById('computerScore').innerHTML = 0;
     }
 
-    function LimitGameToBestOutOfNine (playerScore, computerScore) {    
+    function LimitGameToBestOutOfThree (playerScore, computerScore) {    
         if (playerScore > computerScore) {
           alert("Player has won the game!");
         } else if (computerScore > playerScore) {
           alert("Computer has won the game!");
         } else {
-            // not sure it will tie going to 9?
           alert("It's a tie!");
         }
     }
@@ -94,9 +93,9 @@ break;
         let playerScore = parseInt(document.getElementById("playerScore").innerText);
         let computerScore = parseInt(document.getElementById("computerScore").innerText);
     
-        if ((playerScore + computerScore) >8) {
-            LimitGameToBestOutOfNine(playerScore, computerScore);
-            ResetGame();
+        if ((playerScore + computerScore) == 3){
+            LimitGameToBestOutOfThree(playerScore, computerScore) ;
+            ResetGame() ;
         }
     }
     

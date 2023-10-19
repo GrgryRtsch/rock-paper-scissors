@@ -14,19 +14,19 @@
   <body>
     <header>
 
-<h1>Can you beat a computer at a game of Rock, Paper Scissors.</h1>
+<h1>Rock, Paper Scissors.</h1>
 <center><p class="icons"><i class="fa-solid fa-hand-back-fist">       <i class="fa-solid fa-hand">       <i class="fa-solid fa-hand-scissors"></i></i></i></p></center>
 
     </header>
 <center>
-        <h2>Choose from rock,paper scissors .</h2>
-          <p><strong>Rock</strong> beats <strong>scissors</strong>, <strong>scissors</strong> beats <strong>paper</strong>, and <strong>paper</strong> beats <strong>rock</strong>.</p><br>
+        <h2>Choose your weapon!<br> rock, paper or scissors .</h2>
         <select id="userInput">
 			<option disabled selected value> -- Choose your weapon! -- </option>
 			<option>Rock</option>
 			<option>Paper</option>
 			<option>Scissors</option>
 		</select>
+        <br>
         <br><button onclick="StartFunction()">Play !</button>
         <br><p>You:</p><p id="playerChoice"></p><br>
         <p>Computer:</p><p id="computerChoice"></p><br> 
@@ -37,5 +37,7 @@
         <p>Computer:</p><p id="computerScore">0</p><br>
         <button onclick="ResetGame()">Reset</button>
         </center>
+
+        <center><p><strong>Rock</strong> beats <strong>scissors</strong>, <strong>scissors</strong> beats <strong>paper</strong>, and <strong>paper</strong> beats <strong>rock</strong>.</p><br>
   </body>
 </html>
