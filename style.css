@@ -1,7 +1,7 @@
 body {
     height: 100vh;
     height: calc(var(--vh, 1vh) * 100);
-    font-family: sans-serif;
+    font-family:sans-serif;
     font-size: 18px;
     color: whitesmoke;
     border: 2px solid whitesmoke;

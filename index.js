@@ -93,7 +93,7 @@ break;
         let playerScore = parseInt(document.getElementById("playerScore").innerText);
         let computerScore = parseInt(document.getElementById("computerScore").innerText);
     
-        if ((playerScore + computerScore) == 3){
+        if ((playerScore + computerScore) <= 3){
             LimitGameToBestOutOfThree(playerScore, computerScore) ;
             ResetGame() ;
         }
