@@ -2,7 +2,7 @@
 
 [View the live project here.](https://grgryrtsch.github.io/rock-paper-scissors/)
 
-This is the main website for Snowboarding Club. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
+This is the main website my Rock, Paper, Scissors Game. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
 
 <h2 align="center">User Experience & Wireframe</h2>
 
