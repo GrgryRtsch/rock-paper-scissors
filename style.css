@@ -7,7 +7,7 @@ body {
     border: 2px solid whitesmoke;
     height: 100%;
     padding-bottom: 3%;
-    background-image: url('../assets/images/background.jpg') ;
+    background-image: url('assets/images/background.jpg') ;
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
