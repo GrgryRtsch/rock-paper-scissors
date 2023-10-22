@@ -1,5 +1,7 @@
 <h1 align="center">Rock, Paper, Scissors.</h1>
 
+(/assets/images/responsive-views.png)
+
 [View the live project here.](https://grgryrtsch.github.io/rock-paper-scissors/)
 
 This is the main website my Rock, Paper, Scissors Game. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
