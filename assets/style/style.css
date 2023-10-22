@@ -55,7 +55,7 @@ body {
 }
   
   .result {
-    color: green;
+    color: gold;
 }
 
 p {
@@ -103,20 +103,32 @@ p {
 
 .selection {
     text-align: center;
+    flex-direction:row;
 }
 
 .choices {
     text-align: center; 
+    flex-direction:row;
 }
 
 .scoreBoard {
     border: 1px solid whitesmoke;
     padding-bottom: 30px;
-    text-align: center;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    color: whitesmoke;
 }
 
 .play {
     padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    color: whitesmoke;
 }
 
 .hands {
