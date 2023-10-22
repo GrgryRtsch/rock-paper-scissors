@@ -5,17 +5,17 @@
 
 [View the live project here.](https://grgryrtsch.github.io/rock-paper-scissors/)
 
-This is the main website my Rock, Paper, Scissors Game. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
+This is the main website for my Rock, Paper, Scissors Game. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential students and partners.
 
 <h2 align="center">User Experience</h2>
 
 # User Experience
 
-- The game site is presented in a minimalist but effective way, providing all the information and rules the user needs. Rock, Paper, Scissors. This game is for adults and children it is a replayable game that is played against the computer and give a winner based on who gets the best out of a certain number of rounds.
+- The game site is presented in a minimalist but effective way, providing all the information and rules the user needs. Rock, Paper, Scissors. This game is for adults and children, it is a replayable game that is played against the computer and give a winner based on who gets the best out of a certain number of rounds.
 
 ## Purpose
 
-- For people to play and enjoy a simple game of rock, paper, scissors against a randlomly generated computer.
+- For people to play and enjoy a simple game of rock, paper, scissors against a randomly generated computer.
 
 ## Goals
 
@@ -27,7 +27,7 @@ This is the main website my Rock, Paper, Scissors Game. It is designed to be res
 
 ## Outcomes
 
-- To acheive a cohesive website in which the information is easily accessable and clear with the rules of the game and functions all easily accesible and viewable within the first home page.
+- To achieve a cohesive website in which the information is easily accessable and clear with the rules of the game and functions all easily accesible and viewable within the first home page.
 
 ## User Goals
 
@@ -49,7 +49,7 @@ This is the main website my Rock, Paper, Scissors Game. It is designed to be res
 
 ## Design
 
-- I decided to make the website have an old school arcade game feel which is reflected in my background image and choice of font and fucntions, as well as colour scheme.
+- I decided to make the website have an old school arcade game feel which is reflected in my background image and choice of font and functions, as well as colour scheme.
 
 ## Colors Chosen
 
