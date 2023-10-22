@@ -129,7 +129,7 @@ This is the main website for my Rock, Paper, Scissors Game. It is designed to be
  
 - I used fontawesome for all of my icons <a href="https://fontawesome.com/"></a>
 
-##Testing
+## Testing
 
 - Tested on Chrome, Firefox, Microsoft Edge desktop version browsers. Chrome Developer Tools were used to test the responsiveness on: Desktop, Laptop, Samsung S8+/S20ultra, Pixel 5, iPhone SE/XR, iPhone 12, Ipad Air/Mini, Surface Pro, Nest Hub/Nest Hub Max.
 - A large amount of testing was done to ensure that all pages were linking correctly.
@@ -183,7 +183,7 @@ This is the main website for my Rock, Paper, Scissors Game. It is designed to be
 
 - As a Frequent User, the game should be easy to now understand without any guidance and simple enough for me to hop on and have a few games whenever I so chose, whilst maintaing the fun and aesphetics in which the game is set.
 
-##Further Testing
+## Further Testing
 
 - I have asked my partner and members of my family and friends to play around on the website and let me know of any bugs or problems they encounter, and rectified all contructive critisism.
 
