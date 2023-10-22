@@ -88,7 +88,6 @@ This is the main website for my Rock, Paper, Scissors Game. It is designed to be
   
 ![Screenshot 2023-10-22 120546](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/5d8d4e17-c996-482d-8281-6a8b0365f2be)
 
-
 - All features have been tested across all device sizes.
 
 ### Home Page
@@ -104,14 +103,14 @@ This is the main website for my Rock, Paper, Scissors Game. It is designed to be
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
 - [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-- [JavaScript] (https://en.wikipedia.org/wiki/JavaScript)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
 ## Credits:
 
 ### All custom code was written by Gregory Rutsch
 
-- I used a tutorial from the content creator "BroCode" for some inpiration on how to start developing my game: <https://www.youtube.com/@BroCodez
-- I used this code to provide a rough template in which to customize and make my own https://codepen.io/SaberHosneyDev/pen/gLxrWX
+- I used a tutorial from the content creator "BroCode" for some inpiration on how to start developing my game: <a href=https://www.youtube.com/@BroCodez>
+- I used this code to provide a rough template in which to customize and make my own <a href=https://codepen.io/SaberHosneyDev/pen/gLxrWX>
 - All other code is custom written by myself Greg Rutsch.
 
 ## Frameworks
