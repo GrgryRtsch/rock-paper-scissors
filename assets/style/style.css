@@ -8,40 +8,35 @@ body {
     height: 100%;
     padding-bottom: 3%;
     background-image: url('../images/background.jpg') ;
-  height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  text-align: center;
-  }
-
-.score-board {
-    border: 1px solid whitesmoke;
-    padding-bottom: 30px;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
 }
 
   header {
     margin-bottom: 3%;
-  }
+}
   
-  h1 {
+  .heading {
     text-align: center;
     border-bottom: 1px solid whitesmoke;
     text-align: center;
     padding-bottom: 30px;
-  }
+}
 
   strong {
     color:yellow;
 
-  }
+}
   
   .icons {
     text-align: center;
     color: yellow;
     padding-top: 30px;
     padding-bottom: 30px;
-  }
+}
 
   button {
     font-family: cursive;
@@ -49,7 +44,7 @@ body {
     width: 100px;
     background-color: white;
     color: whitesmoke;
-  }
+}
   
   input {
     font-family:monospace;
@@ -57,35 +52,14 @@ body {
     height: 35px;
     width: 200px;
     
-  }
+}
   
   .result {
     color: green;
-  }
-  
-  #ch {
-    color: red;
-  }
-  
-  #pc {
-    color: green
-    ;
-  }
-  
-  #ch, #pc, #result {
-   font-weight :600;
-  }
+}
 
 p {
-display : inline-block;
-}
-
-#pscore {
-    color: green;
-}
-
-#cscore {
-    color: red;
+    display : inline-block;
 }
 
 .playerScore {
@@ -116,10 +90,35 @@ display : inline-block;
     background-color: grey;
 }
 
-#fist {
-    color: yellow;
+.rules {
+    border: 2px solid whitesmoke;
+    border-radius: 12px;
+    padding: 5px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    display: inline-block;
+    text-align: center;
+    max-width: 20rem;
 }
 
-.rules {
+.selection {
     text-align: center;
+}
+
+.choices {
+    text-align: center; 
+}
+
+.scoreBoard {
+    border: 1px solid whitesmoke;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.play {
+    padding: 20px;
+}
+
+.hands {
+    color: yellow;
 }
