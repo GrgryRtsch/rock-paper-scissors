@@ -89,7 +89,8 @@ This is the main website my Rock, Paper, Scissors Game. It is designed to be res
 - All features have been tested across all device sizes.
 
 ### Home Page
-- 
+- ![Screenshot 2023-10-22 114200](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/66812888-62e5-4876-b65e-07c646e2d1a9)
+
 
 ## Future Features
 
@@ -131,14 +132,13 @@ This is the main website my Rock, Paper, Scissors Game. It is designed to be res
 - A large amount of testing was done to ensure that all pages were linking correctly.
 - Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
-
 ## Validating
 
 - https://validator.w3.org/
+![Screenshot 2023-10-22 112149](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/9ee351a4-ec92-49c5-b0e6-8b076edeafe3)
 
 - https://jigsaw.w3.org/
-
-
+![Screenshot 2023-10-22 112449](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/7a38683b-0e41-4956-b4ee-4ef46d56788f)
 
 ## Lighthouse Testing
 
@@ -146,15 +146,11 @@ This is the main website my Rock, Paper, Scissors Game. It is designed to be res
   
 - Mobile Lighthouse Test
   
-
+![Screenshot 2023-10-22 111934](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/db22ed71-1395-4ca0-bc65-293cb2296265)
 
 - Desktop Lighthouse Test
 
-
-
-
-
-
+![Screenshot 2023-10-22 111850](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/5091f438-43d5-4615-ad3c-390b5c55840f)
 
 ## Known Bugs
 
