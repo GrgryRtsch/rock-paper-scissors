@@ -3,7 +3,6 @@
 =======
 ![Screenshot 2023-10-22 112804](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/61c45407-7a68-4e36-81b5-ac050bd1b26d)
 
->>>>>>> 47cd2a4565f9f22255fa9428e30f7463edbbf41c
 
 [View the live project here.](https://grgryrtsch.github.io/rock-paper-scissors/)
 
