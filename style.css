@@ -28,6 +28,7 @@ body {
     text-align: center;
     border-bottom: 1px solid whitesmoke;
     text-align: center;
+    padding-bottom: 30px;
   }
 
   strong {
@@ -39,6 +40,8 @@ body {
     text-align: center;
     size: 5000px;
     color: yellow;
+    padding-top: 30px;
+    padding-bottom: 30px;
   }
 
   button {

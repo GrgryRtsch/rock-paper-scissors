@@ -83,16 +83,14 @@ function LimitGameToBestOutOfThree (playerScore, computerScore) {
       alert("Player has won the game!");
     } else if (computerScore > playerScore) {
       alert("Computer has won the game!");
-    } else {
-      alert("It's a tie!");
-    }
+    } 
 }
 
 function CompleteRound() {
     let playerScore = parseInt(document.getElementById("playerScore").innerText);
     let computerScore = parseInt(document.getElementById("computerScore").innerText);
 
-    if ((playerScore + computerScore) === 3){
+    if ((playerScore + computerScore) = 3){
         LimitGameToBestOutOfThree(playerScore, computerScore) ;
         ResetGame() ;
     }
