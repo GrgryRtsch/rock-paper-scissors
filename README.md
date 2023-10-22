@@ -1,6 +1,6 @@
 <h1 align="center">Rock, Paper, Scissors.</h1>
 
-(/assets/images/responsive-views.png)
+(assets/images/responsive-views.png)
 
 [View the live project here.](https://grgryrtsch.github.io/rock-paper-scissors/)
 
