@@ -109,8 +109,8 @@ This is the main website for my Rock, Paper, Scissors Game. It is designed to be
 
 ### All custom code was written by Gregory Rutsch
 
-- I used a tutorial from the content creator "BroCode" for some inpiration on how to start developing my game: <a href=https://www.youtube.com/@BroCodez>
-- I used this code to provide a rough template in which to customize and make my own <a href=https://codepen.io/SaberHosneyDev/pen/gLxrWX>
+- I used a tutorial from the content creator "BroCode" for some inpiration on how to start developing my game: https://www.youtube.com/@BroCodez
+- I used this code to provide a rough template in which to customize and make my own https://codepen.io/SaberHosneyDev/pen/gLxrWX
 - All other code is custom written by myself Greg Rutsch.
 
 ## Frameworks
