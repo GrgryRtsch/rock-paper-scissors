@@ -5,9 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="style.css">
-    <script src="index.js"></script>
-    <script src="https://kit.fontawesome.com/67138d414f.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="assets/style/style.css">
 
   </head>
 
@@ -21,7 +19,7 @@
     </header>
 
         <h2>Choose your weapon!<br> rock, paper or scissors .</h2>
-        <select id="userInput">
+        <select id="userInput" class="userInput">
 			<option disabled selected value> Choose your weapon here! </option>
 			<option>Rock</option>
 			<option>Paper</option>
@@ -30,21 +28,23 @@
         <br>
         <h3>The Choices</h3>
         <br><button class="playButton" onclick="StartFunction()">Play !</button>
-        <br><p>Player <i class="fa-solid fa-person"></i> : </p><p id="playerChoice"></p><br>
-         <p>Computer <i class="fa-solid fa-computer"></i> : </p><p id="computerChoice"></p><br> 
-         <p id="result"></p>
+        <br><p>Player <i class="fa-solid fa-person"></i> : </p><p id="playerChoice" class="playerChoice"></p><br>
+         <p>Computer <i class="fa-solid fa-computer"></i> : </p><p id="computerChoice" class="computerChoice"></p><br> 
+         <p id="result" class="result"></p>
         <br>
         <section class="score-board">
         <h3>The Score Board</h3>
-		 <p>Player <i class="fa-solid fa-person"></i> :</p><p id="playerScore">0</p><br>
-         <p>Computer <i class="fa-solid fa-computer"></i> :</p><p id="computerScore">0</p><br>
-        <button class="resetButton" onclick="ResetGame()">Reset</button>
+		 <p>Player <i class="fa-solid fa-person"></i> :</p><p id="playerScore" class="playerScore">0</p><br>
+         <p>Computer <i class="fa-solid fa-computer"></i> :</p><p id="computerScore" class="computerScore">0</p><br>
+        <button id="resetButton" class="resetButton" onclick="ResetGame()">Reset</button>
         <br>
     </section>
-    <section class="Rules">
+    <section class="rules">
             <h4>Rules.</h4>
             <p><strong>Rock</strong> beats <strong>scissors</strong>, <strong>scissors</strong> beats <strong>paper</strong>, and <strong>paper</strong> beats <strong>rock</strong>.</p><br>
             <p>The game will restart automatically once the winner has been determined, or if you want to restart the game at any point there is also a reset button.</p>
         </section>
+        <script src="assets/script/index.js"></script>
+    <script src="https://kit.fontawesome.com/67138d414f.js" crossorigin="anonymous"></script
         </body>
 </html>
