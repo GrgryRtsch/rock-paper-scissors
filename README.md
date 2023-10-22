@@ -1,7 +1,5 @@
 <h1 align="center">Rock, Paper, Scissors.</h1>
 
-<<<<<<< HEAD
-(assets/images/responsive-views.png)
 =======
 ![Screenshot 2023-10-22 112804](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/61c45407-7a68-4e36-81b5-ac050bd1b26d)
 
@@ -78,14 +76,6 @@ This is the main website my Rock, Paper, Scissors Game. It is designed to be res
 
 - The game first of all have a function to let you 'chose your weapon' in this case either rock, paper or scissors.
 - The page also has a reset button in which if you would like to restart the game before finishing, you can do so simply and easily.
-
-## Wireframes
-
-### Home Page - Desktop
-
-### Home Page - Tablet
-
-### Home Page - Mobile
 
 
 ## Features
