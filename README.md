@@ -1,7 +1,6 @@
 <h1 align="center">Rock, Paper, Scissors.</h1>
 
-![Screenshot 2023-10-22 112804](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/61c45407-7a68-4e36-81b5-ac050bd1b26d)
-
+![Screenshot 2023-10-22 201126](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/0ccd0fb4-89b2-47f8-a162-139cd8f2863b)
 
 [View the live project here.](https://grgryrtsch.github.io/rock-paper-scissors/)
 
@@ -31,18 +30,18 @@ This is the main website for my Rock, Paper, Scissors Game. It is designed to be
 
 ## User Goals
 
-- First Time Visitor Goals
+## First Time Visitor Goals
 - As a First Time Visitor, the game should have clear instructions.
 - As a First Time Visitor, the game should be simple and fun.
 - As a First Time Visitor, the game should be easy to navigate.
 - As a First Time Visitor, the game should clearly display a winner and loser.
 
-- Returning Visitor Goals
+## Returning Visitor Goals
 - As a Returning Visitor, the game should be replayable.
 - As a Returning Visitor, the game should be easy to navigate.
 - As a Returning Visitor, the game shuold be accessible for all ages.
 
-- Frequent User Goals
+## Frequent User Goals
 - As a Frequent User, the game and functions should be simple but functional.
 - As a Frequent User, the game should have a level of replaybility.
 - As a Frequent User, I would like to see more developments in the future and more features and maybe other games to chose from as well.
@@ -74,10 +73,10 @@ This is the main website for my Rock, Paper, Scissors Game. It is designed to be
 
 - The game first of all have a function to let you 'chose your weapon' in this case either rock, paper or scissors.
 - The page also has a reset button in which if you would like to restart the game before finishing, you can do so simply and easily.
-- 
+
 ## Features
 
-- Alert box to reset the game upon winning or losing.
+- Alert box which displays to automatically reset the game upon winning or losing.
   
 ![Screenshot 2023-10-22 115845](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/08dd7cff-6087-4cbe-b3d9-001bb900148e)
 
@@ -94,8 +93,7 @@ This is the main website for my Rock, Paper, Scissors Game. It is designed to be
 
 ### Home Page
 
- ![Screenshot 2023-10-22 114200](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/66812888-62e5-4876-b65e-07c646e2d1a9)
-
+![Screenshot 2023-10-22 201253](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/d909807b-9cf9-4570-9214-04c0cfab8bdc)
 
 ## Future Features
 
@@ -162,8 +160,7 @@ This is the main website for my Rock, Paper, Scissors Game. It is designed to be
 - Changed wording of the header to make more sense.
 
 - N/A (No known bugs)
-  
-### User Story Telling
+
 ### Testing User Stories from User Experience (UX) Section
 
 ## First Time Visitor Goals
