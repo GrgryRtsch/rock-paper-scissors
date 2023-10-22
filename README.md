@@ -159,6 +159,8 @@ This is the main website for my Rock, Paper, Scissors Game. It is designed to be
 
 ## Known Bugs
 
+- Changed wording of the header to make more sense.
+
 - N/A (No known bugs)
   
 ### User Story Telling
