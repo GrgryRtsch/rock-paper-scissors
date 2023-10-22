@@ -79,19 +79,23 @@ This is the main website my Rock, Paper, Scissors Game. It is designed to be res
 ## Features
 
 - Alert box to reset the game upon winning or losing.
+  
 ![Screenshot 2023-10-22 115845](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/08dd7cff-6087-4cbe-b3d9-001bb900148e)
 
 - Weapon choice section.
+  
 ![Screenshot 2023-10-22 120434](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/7d54ed1e-c3a2-4d09-a057-7c2f7af85999)
 
 - Scoreboard section.
+  
 ![Screenshot 2023-10-22 120546](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/5d8d4e17-c996-482d-8281-6a8b0365f2be)
 
 
 - All features have been tested across all device sizes.
 
 ### Home Page
-- ![Screenshot 2023-10-22 114200](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/66812888-62e5-4876-b65e-07c646e2d1a9)
+
+ ![Screenshot 2023-10-22 114200](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/66812888-62e5-4876-b65e-07c646e2d1a9)
 
 
 ## Future Features
