@@ -11,7 +11,7 @@
 
 This is the main website my Rock, Paper, Scissors Game. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
 
-<h2 align="center">User Experience & Wireframe</h2>
+<h2 align="center">User Experience</h2>
 
 # User Experience
 
@@ -79,16 +79,17 @@ This is the main website my Rock, Paper, Scissors Game. It is designed to be res
 - The game first of all have a function to let you 'chose your weapon' in this case either rock, paper or scissors.
 - The page also has a reset button in which if you would like to restart the game before finishing, you can do so simply and easily.
 
-## Wireframes
-
-### Home Page - Desktop
-
-### Home Page - Tablet
-
-### Home Page - Mobile
-
-
 ## Features
+
+- Alert box to reset the game upon winning or losing.
+![Screenshot 2023-10-22 115845](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/08dd7cff-6087-4cbe-b3d9-001bb900148e)
+
+- Weapon choice section.
+![Screenshot 2023-10-22 120434](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/7d54ed1e-c3a2-4d09-a057-7c2f7af85999)
+
+- Scoreboard section.
+![Screenshot 2023-10-22 120546](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/5d8d4e17-c996-482d-8281-6a8b0365f2be)
+
 
 - All features have been tested across all device sizes.
 
@@ -182,8 +183,6 @@ This is the main website my Rock, Paper, Scissors Game. It is designed to be res
 - As a Frequent User, I would like to clearly understand who the winner and loser of the game is whilst always maintaining that replayability which is the goal of any game.
 
 - As a Frequent User, the game should be easy to now understand without any guidance and simple enough for me to hop on and have a few games whenever I so chose, whilst maintaing the fun and aesphetics in which the game is set.
-
-
 
 ##Further Testing
 
