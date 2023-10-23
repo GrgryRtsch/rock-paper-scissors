@@ -164,21 +164,28 @@ This is the my Rock, Paper, Scissors Game. It is designed to be responsive and a
 
 ## First Time Visitor Goal Stories
 
-- As a First Time Visitor, I would like to come onto the web page and easily navigate it whilst getting the information I need about the rules of the game and how to reset and play.
-  
-- As a First Time Visitor, I user should easily find the functions of the game, and have a visual pleasing experience with the retro theme that has tried to be achieved.
+- As a First Time Visitor, I would like to come onto the web page and easily navigate it whilst getting the information I need about the rules of the game and how to reset and play as shown in this screenshot.
+- ![Screenshot 2023-10-23 112757](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/de8ccc84-af77-4c15-81e8-dd146fe39d67)
+
+- As a First Time Visitor, I user should easily find the functions of the game, and have a visual pleasing experience with the retro theme that has tried to be achieved which as per my screenshot below I think are easily accesible.
+- ![Screenshot 2023-10-23 112932](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/50e208d2-fcf0-4ff0-ba82-e2879ffa1e70)
 
 ## Returning Visitor Goal Stories
 
-- As a Returning Visitor, I would like the game to have a certain replayability. And for it to be accesible to all ages incase I would like to show my younger siblings or children.
-  
-- As a Returning Visitor, I should be able to easily refresh myself on the rules and functions of the game which should be included on the main page and get playing the game as soon as possible with little effort.
+- As a Returning Visitor, I would like the game to have a certain replayability. And for it to be accesible to all ages incase I would like to show my younger siblings or children Upon winning you get a win notification which will then reset the game which displays the games replayability.
+- ![Screenshot 2023-10-23 112932](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/1f58b09e-1f85-4c4b-947a-349001a3db3c)
+
+- As a Returning Visitor, I should be able to easily refresh myself on the rules and functions of the game which should be included on the main page and get playing the game as soon as possible with little effort which again, are displayed in the same location which shows continuity.
+- ![Screenshot 2023-10-23 112757](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/9b1f63df-4363-4501-9fca-08b9de7a74b3)
 
 ## Frequent User Goal Stories
 
-- As a Frequent User, I would like to clearly understand who the winner and loser of the game is whilst always maintaining that replayability which is the goal of any game.
+- As a Frequent User, I would like to clearly understand who the winner and loser of the game is whilst always maintaining that replayability which is the goal of any game, this is displayed in these two sections which give you feedback as you are playing and when the round is over also.
+- ![Screenshot 2023-10-23 113319](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/04f31ad7-f856-4e8f-abdf-5bfe944a7494)
+- ![Screenshot 2023-10-22 115845](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/711aafd5-e024-4376-924d-2d5877479349)
 
-- As a Frequent User, the game should be easy to now understand without any guidance and simple enough for me to hop on and have a few games whenever I so chose, whilst maintaing the fun and aesphetics in which the game is set.
+- As a Frequent User, the game should be easy to now understand without any guidance and simple enough for me to hop on and have a few games whenever I so chose, whilst maintaing the fun and aesphetics in which the game is set, this is why I have made the game fairly straight forward and with the best of three function as per my screenshot below everything is displayed on the same page which gives the imformation as a constant.
+- ![Screenshot 2023-10-23 113453](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/88d30912-7421-4846-a798-8a02ec8560f7)
 
 ## Further Testing
 
