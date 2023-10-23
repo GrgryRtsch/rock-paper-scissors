@@ -4,13 +4,13 @@
 
 [View the live project here.](https://grgryrtsch.github.io/rock-paper-scissors/)
 
-This is the main website for my Rock, Paper, Scissors Game. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential students and partners.
+This is the my Rock, Paper, Scissors Game. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential students and partners. I have designed it to look and feel like an 90's arcade game to give that old school feel feeling and aesthetic which is emphasized by my choice of background imagery. The game has been designed with the classic rock, paper, scissors format of best of three which I beleive makes the game more replayable and fun. You will select your 'weapon' from the drop down menu, the computer will then make their choice, the results are then displayed below, upon either you or the computer winning a best of three set, you will see an alert box which will then have a button which will reset the score back to zero.
 
 <h2 align="center">User Experience</h2>
 
 # User Experience
 
-- The game site is presented in a minimalist but effective way, providing all the information and rules the user needs. Rock, Paper, Scissors. This game is for adults and children, it is a replayable game that is played against the computer and give a winner based on who gets the best out of a certain number of rounds.
+- The game site is presented in a minimalist but effective way, providing all the information and rules the user needs. Rock, Paper, Scissors. This game is for adults and children, it is a replayable game that is played against the computer and give a winner based on who gets the best out three of rounds.
 
 ## Purpose
 
@@ -31,17 +31,20 @@ This is the main website for my Rock, Paper, Scissors Game. It is designed to be
 ## User Goals
 
 ## First Time Visitor Goals
+
 - As a First Time Visitor, the game should have clear instructions.
 - As a First Time Visitor, the game should be simple and fun.
 - As a First Time Visitor, the game should be easy to navigate.
 - As a First Time Visitor, the game should clearly display a winner and loser.
 
 ## Returning Visitor Goals
+
 - As a Returning Visitor, the game should be replayable.
 - As a Returning Visitor, the game should be easy to navigate.
 - As a Returning Visitor, the game shuold be accessible for all ages.
 
 ## Frequent User Goals
+
 - As a Frequent User, the game and functions should be simple but functional.
 - As a Frequent User, the game should have a level of replaybility.
 - As a Frequent User, I would like to see more developments in the future and more features and maybe other games to chose from as well.
@@ -61,7 +64,6 @@ This is the main website for my Rock, Paper, Scissors Game. It is designed to be
 ## Imagery
 
 - As I didn't want to overcrowd the simplistic game with lots of different images I chose to just use 1 image, which is the background image with gives the 90's old school gaming feeling.
-
 
 ## Tecnologies Used
 
@@ -105,14 +107,13 @@ This is the main website for my Rock, Paper, Scissors Game. It is designed to be
 - [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
-## Credits:
+## Credits
 
 ### All custom code was written by Gregory Rutsch
 
-- I used a tutorial from the content creator "BroCode" for some inpiration on how to start developing my game: https://www.youtube.com/@BroCodez
+- I used a tutorial from the content creator "BroCode" for some inpiration on how to start developing my game: [youtube tutorial](https://www.youtube.com/@BroCodez)
 - I used this code to provide a rough template in which to customize and make my own
- https://codepen.io/SaberHosneyDev/pen/gLxrWX
-- All other code is custom written by myself Greg Rutsch.
+  [codepen template](https://codepen.io/SaberHosneyDev/pen/gLxrWX)
 
 ## Frameworks
 
@@ -122,12 +123,12 @@ This is the main website for my Rock, Paper, Scissors Game. It is designed to be
 - CodeAnywhere for building my code and before pushing to GitHub.
 
 ## Media
- 
-- All images were taken from https://www.freepik.com
+
+- All images were taken from [freepik](https://www.freepik.com)
 
 ## Icons
- 
-- I used fontawesome for all of my icons <a href="https://fontawesome.com/"></a>
+
+- I used fontawesome for all of my icons [font awesome]("https://fontawesome.com/">)
 
 ## Testing
 
@@ -137,15 +138,15 @@ This is the main website for my Rock, Paper, Scissors Game. It is designed to be
 
 ## Validating
 
-- https://validator.w3.org/
+- [W3validator](https://validator.w3.org/)
 ![Screenshot 2023-10-22 112149](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/9ee351a4-ec92-49c5-b0e6-8b076edeafe3)
 
-- https://jigsaw.w3.org/
+- [jigsawW3](https://jigsaw.w3.org/)
 ![Screenshot 2023-10-22 112449](https://github.com/GrgryRtsch/rock-paper-scissors/assets/127130382/7a38683b-0e41-4956-b4ee-4ef46d56788f)
 
 ## Lighthouse Testing
 
-- My score is 
+- My score is good and I am happy with the result of the lighthouse which display my sites capabilities.
   
 - Mobile Lighthouse Test
   
@@ -157,27 +158,23 @@ This is the main website for my Rock, Paper, Scissors Game. It is designed to be
 
 ## Known Bugs
 
-- Changed wording of the header to make more sense.
-
 - N/A (No known bugs)
 
 ### Testing User Stories from User Experience (UX) Section
 
-## First Time Visitor Goals
+## First Time Visitor Goal Stories
 
 - As a First Time Visitor, I would like to come onto the web page and easily navigate it whilst getting the information I need about the rules of the game and how to reset and play.
   
 - As a First Time Visitor, I user should easily find the functions of the game, and have a visual pleasing experience with the retro theme that has tried to be achieved.
 
-## Returning Visitor Goals
-
+## Returning Visitor Goal Stories
 
 - As a Returning Visitor, I would like the game to have a certain replayability. And for it to be accesible to all ages incase I would like to show my younger siblings or children.
   
 - As a Returning Visitor, I should be able to easily refresh myself on the rules and functions of the game which should be included on the main page and get playing the game as soon as possible with little effort.
 
-
-## Frequent User Goals
+## Frequent User Goal Stories
 
 - As a Frequent User, I would like to clearly understand who the winner and loser of the game is whilst always maintaining that replayability which is the goal of any game.
 
@@ -191,13 +188,13 @@ This is the main website for my Rock, Paper, Scissors Game. It is designed to be
 
 - GitHub Pages
 
-(https://grgryrtsch.github.io/rock-paper-scissors/)
+[deployed project](https://grgryrtsch.github.io/rock-paper-scissors/)
 
 ### Acknowledgements
 
--   My Mentor Narender Singh and Cohort Lead Iris Smok for continuous helpful feedback.
+- My Mentor Narender Singh and Cohort Lead Iris Smok for continuous helpful feedback.
 
--   Tutor support at Code Institute for their support.
+- Tutor support at Code Institute for their support.
 
 ### Forking the GitHub Repository
 
@@ -215,12 +212,9 @@ By forking the GitHub Repository you will make a copy of the original repository
 - Open Git Bash
 - Change the current working directory to the location where you want the cloned directory to be made.
 - Type `git clone`, and then paste the URL you copied in Step 3.
-
-- git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-
-7. Press Enter. Your local clone will be created.
-
-- git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+- git clone [github](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
+- Press Enter. Your local clone will be created.
+- git clone [github](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
 - Cloning into `CI-Clone`...
 - remote: Counting objects: 10, done.
 - remote: Compressing objects: 100% (8/8), done.
